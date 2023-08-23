@@ -1,4 +1,65 @@
-﻿<Properties StartupConfiguration="{12C49B89-3966-4258-ACD9-6D0E89A1A8BB}|https">
+﻿<Properties StartupConfiguration="{12C49B89-3966-4258-ACD9-6D0E89A1A8BB}|https" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.ItemProperties.EcomAppWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EcomApp/Program.cs">
+    <Files>
+      <File FileName="Ecom.DataAccess/Data/ApplicationDbContext.cs" />
+      <File FileName="EcomApp/Program.cs" Line="13" Column="1" />
+      <File FileName="Ecom.DataAccess/EcomApp.DataAccess.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EcomApp" expanded="True">
+            <Node name="EcomApp.DataAccess" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="EcomAppWeb" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Category" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Customer" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Home" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="dist" expanded="True">
+                      <Node name="css" expanded="True" />
+                      <Node name="js" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="jquery" expanded="True">
+                    <Node name="dist" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.EcomApp FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

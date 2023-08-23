@@ -1,0 +1,8 @@
+/Users/karthikkotha/Projects/Ecom/EcomApp/EcomApp/obj/Debug/net7.0/EcomApp.csproj.AssemblyReference.cache
+/Users/karthikkotha/Projects/Ecom/EcomApp/EcomApp/obj/Debug/net7.0/EcomApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikkotha/Projects/Ecom/EcomApp/EcomApp/obj/Debug/net7.0/EcomApp.AssemblyInfoInputs.cache
+/Users/karthikkotha/Projects/Ecom/EcomApp/EcomApp/obj/Debug/net7.0/EcomApp.AssemblyInfo.cs
+/Users/karthikkotha/Projects/Ecom/EcomApp/EcomApp/obj/Debug/net7.0/EcomApp.csproj.CoreCompileInputs.cache
+/Users/karthikkotha/Projects/Ecom/EcomApp/EcomApp/obj/Debug/net7.0/EcomApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/karthikkotha/Projects/Ecom/EcomApp/EcomApp/obj/Debug/net7.0/EcomApp.RazorAssemblyInfo.cache
+/Users/karthikkotha/Projects/Ecom/EcomApp/EcomApp/obj/Debug/net7.0/EcomApp.RazorAssemblyInfo.cs
